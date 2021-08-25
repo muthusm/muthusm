@@ -1,4 +1,4 @@
-<h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! <strong>I'm Meena Muthusubramanian</strong>.  </h3> 
+<h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! <b>I'm Meena Muthusubramanian</b>.  </h3> 
 
 ## 👩‍💻 Technologies
 
