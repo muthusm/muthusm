@@ -1,6 +1,6 @@
-## <h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! <b>I'm Meena Muthusubramanian</b>.  </h3> 
+## <h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! <b>I'm Meena Muthusubramanian</b>. <img src="assets/programmer.png" width="35px"> </h3> 
 
-## 👩‍💻 Technologies
+## 👩‍💻 Technologies     
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![R](https://img.shields.io/badge/R-1572B6?style=flat-square&logo=R)
@@ -28,7 +28,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
-<img align="right" style="background-color: #1a1a1a; border-radius:100%" src="avatar.svg" width=350 height=350>
+<img align="right" style="background-color: #1a1a1a; border-radius:100%" src="assets/avatar.svg" width=350 height=350>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=muthusm&show_icons=true&theme=bear" width = 400>
