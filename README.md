@@ -1,6 +1,6 @@
 <h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! <strong>I'm Meena Muthusubramanian</strong>.  </h3> 
 
-<img align="right" src="avatar.svg" height=200>
+<img align="right" src="avatar.svg" height=400>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=muthusm&show_icons=true&theme=bear" width = 400>
