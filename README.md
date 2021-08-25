@@ -1,6 +1,6 @@
 <h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! <strong>I'm Meena Muthusubramanian</strong>.  </h3> 
 
-<img align="right" style="background-color: rgba(45, 45, 45, .95); backdrop-filter: blur(15px); border-radius:100%" src="avatar.svg" width=350 height=350>
+<img align="right" style="background-color: rgba(255, 255, 255, .25); backdrop-filter: blur(15px); border-radius:100%" src="avatar.svg" width=350 height=350>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=muthusm&show_icons=true&theme=bear" width = 400>
