@@ -1,5 +1,11 @@
-<h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'm Meena Muthusubramanian. </h3>
+<h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! <strong>I'm Meena Muthusubramanian</strong>.  </h3> 
 
+<img align="right" src="avatar.svg" height=200>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=muthusm&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=muthusm&theme=dark&hide_border=true" width = 400>
+</p>
 
 <!--
 **muthusm/muthusm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
