@@ -26,7 +26,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
-<img align="right" style="background-color: #1a1a1a; border-radius:100%" src="assets/avatar.svg" width=350 height=350>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=muthusm&show_icons=true&theme=bear" width = 400>
