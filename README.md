@@ -1,6 +1,4 @@
-## <h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! <b>I'm Meena Muthusubramanian</b>. <img src="assets/programmer.png" width="35px"> </h3> 
-
-## 👩‍💻 Technologies     
+## Technologies     
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![R](https://img.shields.io/badge/R-1572B6?style=flat-square&logo=R)
